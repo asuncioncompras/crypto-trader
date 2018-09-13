@@ -2,3 +2,29 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: 'Roboto', sans-serif; }
+
+.chart {
+    background: cadetblue;
+    float: left;
+    width: calc(100% - 300px);
+    height: 100%;
+}
+
+.trade {
+    width: 300px;
+    background: aquamarine;
+    height: 100%;
+    float: right;
+}
+
+.tradingview-widget-container {
+    height: 100%;
+}
+
+#tradingview_fd3ef {
+    height: 100%;
+}
+
+.tradingview-widget-copyright {
+    display: none;
+}
