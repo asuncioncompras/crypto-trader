@@ -12,7 +12,7 @@ body { margin: 0; font-family: 'Roboto', sans-serif; }
 
 .trade {
     width: 300px;
-    background: aquamarine;
+    background-color: #131722;
     height: 100%;
     float: right;
 }
